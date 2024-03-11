@@ -1,6 +1,9 @@
 # typescript-group-work
-###### 網站：[飯店訂房網](https://yanennnnn.github.io/typescript-group/#/)
+
+###### 網站：[飯店訂房網](https://yanennnnn.github.io/typescript-hotel/#/)
+
 2024 TypeScript 30 天證書培訓營 - 協作酒店訂房網站
+
 ## 主要頁面以及分工
 
 - 主要負責
