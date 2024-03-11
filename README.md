@@ -34,7 +34,7 @@
 ### 取得專案
 
 ```
-git clone
+git clone git@github.com:yanennnnn/typescript-hotel.git
 ```
 
 ### 移動到專案內
