@@ -1,25 +1,22 @@
 # typescript-group-work
+###### 網站：[飯店訂房網](https://yanennnnn.github.io/typescript-group/#/)
+2024 TypeScript 30 天證書培訓營 - 協作酒店訂房網站
+## 主要頁面以及分工
 
-[六角]2024 TypeScript 30 天證書培訓營 - 酒店訂房網站團體作業
-
-###### 網站：[飯店訂房網](https://ellayang1227.github.io/typescript-group-work/#/)
-
-## 團隊成員及分工
-
-- 瑀君
+- 主要負責
   - [前置]專案基礎建設
   - [前置]Node.js 部屬至 Render
   - 首頁
   - 忘記密碼
-- Yilee
+- 他人負責
   - 登入、註冊(含路由守衛)
   - 客房旅宿
   - 房型詳細
-- 苡安
+- 他人負責
   - 預約房型
   - 預約成功
   - 統整/部屬/測試
-- sihyun(思云)
+- 他人負責
   - 會員頁/修改個人資料(預覽/編輯)
   - 會員頁/訂單列表
 
@@ -34,7 +31,7 @@
 ### 取得專案
 
 ```
-git clone git@github.com:ellaYang1227/typescript-group-work.git
+git clone
 ```
 
 ### 移動到專案內
