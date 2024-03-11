@@ -5,9 +5,6 @@ on:
   # 僅在推送到預設分支時運行。
   push:
     branches: ["main"]
-  # Pull Request(PR)審查事件中觸發。
-  pull_request_review:
-    types: [submitted]
 
   # 這個選項可以讓你手動在 Action tab 頁面觸發工作流程
   workflow_dispatch:
